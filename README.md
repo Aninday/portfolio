@@ -43,12 +43,6 @@ The website consists of the following sections:
 - **Icons**: Icons are used from libraries such as Font Awesome.
 - **Inspiration**: Layout inspiration from various portfolio templates and personal creativity.
 
-## Contact
-Feel free to reach out for feedback or collaboration:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
-
 ---
 Thank you for visiting my portfolio website! I look forward to connecting with you.
 
